@@ -94,7 +94,7 @@ The system allows users to add, view, and search airline reservations using DOS 
 
 ## 👩‍💻 Author
 
-Ashley  
+Aramish Ashfaq  
 BSCS Student  
 Semester 2 – Digital Logic & Assembly Programming
 
